@@ -1,5 +1,8 @@
 # SI_2024_lab2_223082
 
+
+
+
 public class SILab2 {
     public static boolean checkCart(List<Item> allItems, int payment){  //1
         if (allItems == null){ //1
